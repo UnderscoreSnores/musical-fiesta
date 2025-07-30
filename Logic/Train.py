@@ -6,6 +6,7 @@ import logging
 import asyncpg
 import asyncio
 import warnings
+warnings.filterwarnings("ignore", message="Protobuf gencode version")
 from typing import Dict, List, Tuple, Optional, Any
 from datetime import datetime
 import json
@@ -279,16 +280,34 @@ class AdvancedTrainerPipeline:
         return grid_search.best_estimator_
 
     def load_trained_model(self, symbol, model_name):
+        import os
+        import joblib
         symbol_dir = os.path.join(self.config.model_dir, symbol)
-        model_path = os.path.join(symbol_dir, f"{model_name}.joblib")
-        scaler_path = os.path.join(symbol_dir, "scaler.joblib")
-        selector_path = os.path.join(symbol_dir, "feature_selector.joblib")
-        if not os.path.exists(model_path):
-            raise FileNotFoundError(f"Model not found: {model_path}")
-        model = joblib.load(model_path)
-        scaler = joblib.load(scaler_path) if os.path.exists(scaler_path) else None
-        selector = joblib.load(selector_path) if os.path.exists(selector_path) else None
-        return model, scaler, selector
+        if model_name == "lstm":
+            # LSTM models are saved as .h5 files
+            model_path = os.path.join(symbol_dir, "lstm.h5")
+            if not os.path.exists(model_path):
+                raise FileNotFoundError(f"Model not found: {model_path}")
+            try:
+                from tensorflow.keras.models import load_model
+            except ImportError:
+                raise ImportError("TensorFlow/Keras is not installed.")
+            model = load_model(model_path)
+            scaler_path = os.path.join(symbol_dir, "scaler.joblib")
+            selector_path = os.path.join(symbol_dir, "feature_selector.joblib")
+            scaler = joblib.load(scaler_path) if os.path.exists(scaler_path) else None
+            selector = joblib.load(selector_path) if os.path.exists(selector_path) else None
+            return model, scaler, selector
+        else:
+            model_path = os.path.join(symbol_dir, f"{model_name}.joblib")
+            scaler_path = os.path.join(symbol_dir, "scaler.joblib")
+            selector_path = os.path.join(symbol_dir, "feature_selector.joblib")
+            if not os.path.exists(model_path):
+                raise FileNotFoundError(f"Model not found: {model_path}")
+            model = joblib.load(model_path)
+            scaler = joblib.load(scaler_path) if os.path.exists(scaler_path) else None
+            selector = joblib.load(selector_path) if os.path.exists(selector_path) else None
+            return model, scaler, selector
 
     async def load_data(self, symbol):
         query = """
