@@ -1,0 +1,12 @@
+pandas
+numpy
+asyncpg
+websockets
+requests
+scikit-learn
+xgboost
+lightgbm
+ta
+python-dotenv
+joblib
+tqdm

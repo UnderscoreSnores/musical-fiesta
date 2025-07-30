@@ -1,0 +1,303 @@
+2025-07-23 18:47:11,485 ERROR Error fetching TSLA 2023-01-02: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-02&to=2023-01-02&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:12,669 ERROR Error fetching TSLA 2023-01-03: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-03&to=2023-01-03&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:13,841 ERROR Error fetching TSLA 2023-01-04: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-04&to=2023-01-04&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:14,967 ERROR Error fetching TSLA 2023-01-05: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-05&to=2023-01-05&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:16,094 ERROR Error fetching TSLA 2023-01-06: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-06&to=2023-01-06&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:17,322 ERROR Error fetching TSLA 2023-01-09: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-09&to=2023-01-09&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:18,482 ERROR Error fetching TSLA 2023-01-10: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-10&to=2023-01-10&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:19,478 ERROR Error fetching TSLA 2023-01-11: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-11&to=2023-01-11&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:20,598 ERROR Error fetching TSLA 2023-01-12: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-12&to=2023-01-12&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:21,827 ERROR Error fetching TSLA 2023-01-13: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-13&to=2023-01-13&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:22,918 ERROR Error fetching TSLA 2023-01-16: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-16&to=2023-01-16&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:47:23,937 ERROR Error fetching TSLA 2023-01-17: 422 Client Error: Unprocessable Content for url: https://eodhistoricaldata.com/api/intraday/TSLA.US?interval=1m&from=2023-01-17&to=2023-01-17&api_token=688099db07ac14.58303409&fmt=json
+2025-07-23 18:52:20,595 WARNING No data for TSLA on 2023-01-02
+2025-07-23 18:52:37,039 WARNING No data for TSLA on 2023-01-16
+2025-07-23 18:53:20,448 WARNING No data for TSLA on 2023-02-20
+2025-07-23 18:55:20,054 WARNING No data for TSLA on 2023-05-29
+2025-07-23 18:55:45,142 WARNING No data for TSLA on 2023-06-19
+2025-07-23 18:56:24,389 WARNING No data for TSLA on 2023-07-20
+2025-07-23 18:56:25,579 WARNING No data for TSLA on 2023-07-21
+2025-07-23 18:56:26,732 WARNING No data for TSLA on 2023-07-24
+2025-07-23 18:56:27,805 WARNING No data for TSLA on 2023-07-25
+2025-07-23 18:56:28,887 WARNING No data for TSLA on 2023-07-26
+2025-07-23 18:56:29,998 WARNING No data for TSLA on 2023-07-27
+2025-07-23 18:56:31,124 WARNING No data for TSLA on 2023-07-28
+2025-07-23 18:56:32,346 WARNING No data for TSLA on 2023-07-31
+2025-07-23 18:56:33,487 WARNING No data for TSLA on 2023-08-01
+2025-07-23 18:56:34,780 WARNING No data for TSLA on 2023-08-02
+2025-07-23 18:56:35,848 WARNING No data for TSLA on 2023-08-03
+2025-07-23 18:56:37,045 WARNING No data for TSLA on 2023-08-04
+2025-07-23 18:56:38,217 WARNING No data for TSLA on 2023-08-07
+2025-07-23 18:56:39,390 WARNING No data for TSLA on 2023-08-08
+2025-07-23 18:56:40,468 WARNING No data for TSLA on 2023-08-09
+2025-07-23 18:56:41,550 WARNING No data for TSLA on 2023-08-10
+2025-07-23 18:56:42,779 WARNING No data for TSLA on 2023-08-11
+2025-07-23 18:56:44,019 WARNING No data for TSLA on 2023-08-14
+2025-07-23 18:56:45,143 WARNING No data for TSLA on 2023-08-15
+2025-07-23 18:56:46,274 WARNING No data for TSLA on 2023-08-16
+2025-07-23 18:56:47,389 WARNING No data for TSLA on 2023-08-17
+2025-07-23 18:56:48,445 WARNING No data for TSLA on 2023-08-18
+2025-07-23 18:56:49,525 WARNING No data for TSLA on 2023-08-21
+2025-07-23 18:56:50,598 WARNING No data for TSLA on 2023-08-22
+2025-07-23 18:56:51,883 WARNING No data for TSLA on 2023-08-23
+2025-07-23 18:56:53,057 WARNING No data for TSLA on 2023-08-24
+2025-07-23 18:56:54,248 WARNING No data for TSLA on 2023-08-25
+2025-07-23 18:56:55,300 WARNING No data for TSLA on 2023-08-28
+2025-07-23 18:56:56,426 WARNING No data for TSLA on 2023-08-29
+2025-07-23 18:56:57,518 WARNING No data for TSLA on 2023-08-30
+2025-07-23 18:56:58,585 WARNING No data for TSLA on 2023-08-31
+2025-07-23 18:56:59,653 WARNING No data for TSLA on 2023-09-01
+2025-07-23 18:57:00,909 WARNING No data for TSLA on 2023-09-04
+2025-07-23 18:57:02,051 WARNING No data for TSLA on 2023-09-05
+2025-07-23 18:57:03,341 WARNING No data for TSLA on 2023-09-06
+2025-07-23 18:57:04,635 WARNING No data for TSLA on 2023-09-07
+2025-07-23 18:57:05,706 WARNING No data for TSLA on 2023-09-08
+2025-07-23 18:57:06,771 WARNING No data for TSLA on 2023-09-11
+2025-07-23 18:57:07,800 WARNING No data for TSLA on 2023-09-12
+2025-07-23 18:57:08,921 WARNING No data for TSLA on 2023-09-13
+2025-07-23 18:57:09,994 WARNING No data for TSLA on 2023-09-14
+2025-07-23 18:57:11,069 WARNING No data for TSLA on 2023-09-15
+2025-07-23 18:57:12,106 WARNING No data for TSLA on 2023-09-18
+2025-07-23 18:57:13,413 WARNING No data for TSLA on 2023-09-19
+2025-07-23 18:57:14,472 WARNING No data for TSLA on 2023-09-20
+2025-07-23 18:57:15,556 WARNING No data for TSLA on 2023-09-21
+2025-07-23 18:57:16,637 WARNING No data for TSLA on 2023-09-22
+2025-07-23 18:57:17,746 WARNING No data for TSLA on 2023-09-25
+2025-07-23 18:57:18,815 WARNING No data for TSLA on 2023-09-26
+2025-07-23 18:57:19,874 WARNING No data for TSLA on 2023-09-27
+2025-07-23 18:57:20,938 WARNING No data for TSLA on 2023-09-28
+2025-07-23 18:57:21,960 WARNING No data for TSLA on 2023-09-29
+2025-07-23 18:57:23,032 WARNING No data for TSLA on 2023-10-02
+2025-07-23 18:57:24,091 WARNING No data for TSLA on 2023-10-03
+2025-07-23 18:57:25,132 WARNING No data for TSLA on 2023-10-04
+2025-07-23 18:57:26,168 WARNING No data for TSLA on 2023-10-05
+2025-07-23 18:57:27,301 WARNING No data for TSLA on 2023-10-06
+2025-07-23 18:57:28,398 WARNING No data for TSLA on 2023-10-09
+2025-07-23 18:57:29,508 WARNING No data for TSLA on 2023-10-10
+2025-07-23 18:57:30,554 WARNING No data for TSLA on 2023-10-11
+2025-07-23 18:57:31,648 WARNING No data for TSLA on 2023-10-12
+2025-07-23 18:57:32,868 WARNING No data for TSLA on 2023-10-13
+2025-07-23 18:57:33,931 WARNING No data for TSLA on 2023-10-16
+2025-07-23 18:57:34,992 WARNING No data for TSLA on 2023-10-17
+2025-07-23 18:57:36,143 WARNING No data for TSLA on 2023-10-18
+2025-07-23 18:57:37,211 WARNING No data for TSLA on 2023-10-19
+2025-07-23 18:57:38,388 WARNING No data for TSLA on 2023-10-20
+2025-07-23 18:57:39,509 WARNING No data for TSLA on 2023-10-23
+2025-07-23 18:57:40,651 WARNING No data for TSLA on 2023-10-24
+2025-07-23 18:57:41,765 WARNING No data for TSLA on 2023-10-25
+2025-07-23 18:57:42,818 WARNING No data for TSLA on 2023-10-26
+2025-07-23 18:57:43,924 WARNING No data for TSLA on 2023-10-27
+2025-07-23 18:57:45,040 WARNING No data for TSLA on 2023-10-30
+2025-07-23 18:57:46,282 WARNING No data for TSLA on 2023-10-31
+2025-07-23 18:57:47,446 WARNING No data for TSLA on 2023-11-01
+2025-07-23 18:57:48,608 WARNING No data for TSLA on 2023-11-02
+2025-07-23 18:57:49,652 WARNING No data for TSLA on 2023-11-03
+2025-07-23 18:57:50,718 WARNING No data for TSLA on 2023-11-06
+2025-07-23 18:57:51,789 WARNING No data for TSLA on 2023-11-07
+2025-07-23 18:57:52,994 WARNING No data for TSLA on 2023-11-08
+2025-07-23 18:57:54,161 WARNING No data for TSLA on 2023-11-09
+2025-07-23 18:57:55,279 WARNING No data for TSLA on 2023-11-10
+2025-07-23 18:57:56,357 WARNING No data for TSLA on 2023-11-13
+2025-07-23 18:57:57,415 WARNING No data for TSLA on 2023-11-14
+2025-07-23 18:57:58,447 WARNING No data for TSLA on 2023-11-15
+2025-07-23 18:57:59,689 WARNING No data for TSLA on 2023-11-16
+2025-07-23 18:58:00,837 WARNING No data for TSLA on 2023-11-17
+2025-07-23 18:58:02,135 WARNING No data for TSLA on 2023-11-20
+2025-07-23 18:58:03,293 WARNING No data for TSLA on 2023-11-21
+2025-07-23 18:58:04,440 WARNING No data for TSLA on 2023-11-22
+2025-07-23 18:58:05,534 WARNING No data for TSLA on 2023-11-23
+2025-07-23 18:58:06,743 WARNING No data for TSLA on 2023-11-24
+2025-07-23 18:58:07,784 WARNING No data for TSLA on 2023-11-27
+2025-07-23 18:58:08,999 WARNING No data for TSLA on 2023-11-28
+2025-07-23 18:58:10,038 WARNING No data for TSLA on 2023-11-29
+2025-07-23 18:58:11,116 WARNING No data for TSLA on 2023-11-30
+2025-07-23 18:58:12,219 WARNING No data for TSLA on 2023-12-01
+2025-07-23 18:58:13,320 WARNING No data for TSLA on 2023-12-04
+2025-07-23 18:58:14,423 WARNING No data for TSLA on 2023-12-05
+2025-07-23 18:58:15,570 WARNING No data for TSLA on 2023-12-06
+2025-07-23 18:58:16,604 WARNING No data for TSLA on 2023-12-07
+2025-07-23 18:58:17,829 WARNING No data for TSLA on 2023-12-08
+2025-07-23 18:58:18,957 WARNING No data for TSLA on 2023-12-11
+2025-07-23 18:58:20,128 WARNING No data for TSLA on 2023-12-12
+2025-07-23 18:58:21,188 WARNING No data for TSLA on 2023-12-13
+2025-07-23 18:58:22,245 WARNING No data for TSLA on 2023-12-14
+2025-07-23 18:58:23,332 WARNING No data for TSLA on 2023-12-15
+2025-07-23 18:58:24,394 WARNING No data for TSLA on 2023-12-18
+2025-07-23 18:58:25,481 WARNING No data for TSLA on 2023-12-19
+2025-07-23 18:58:26,544 WARNING No data for TSLA on 2023-12-20
+2025-07-23 18:58:27,950 WARNING No data for TSLA on 2023-12-21
+2025-07-23 18:58:29,158 WARNING No data for TSLA on 2023-12-22
+2025-07-23 18:58:30,204 WARNING No data for TSLA on 2023-12-25
+2025-07-23 18:58:31,283 WARNING No data for TSLA on 2023-12-26
+2025-07-23 18:58:32,497 WARNING No data for TSLA on 2023-12-27
+2025-07-23 18:58:33,635 WARNING No data for TSLA on 2023-12-28
+2025-07-23 18:58:34,726 WARNING No data for TSLA on 2023-12-29
+2025-07-23 18:58:35,859 WARNING No data for TSLA on 2024-01-01
+2025-07-23 18:58:37,034 WARNING No data for TSLA on 2024-01-02
+2025-07-23 18:58:38,090 WARNING No data for TSLA on 2024-01-03
+2025-07-23 18:58:39,212 WARNING No data for TSLA on 2024-01-04
+2025-07-23 18:58:40,298 WARNING No data for TSLA on 2024-01-05
+2025-07-23 18:58:41,359 WARNING No data for TSLA on 2024-01-08
+2025-07-23 18:58:42,461 WARNING No data for TSLA on 2024-01-09
+2025-07-23 18:58:43,540 WARNING No data for TSLA on 2024-01-10
+2025-07-23 18:58:44,834 WARNING No data for TSLA on 2024-01-11
+2025-07-23 18:58:45,926 WARNING No data for TSLA on 2024-01-12
+2025-07-23 18:58:47,091 WARNING No data for TSLA on 2024-01-15
+2025-07-23 18:58:48,236 WARNING No data for TSLA on 2024-01-16
+2025-07-23 18:58:49,383 WARNING No data for TSLA on 2024-01-17
+2025-07-23 18:58:50,481 WARNING No data for TSLA on 2024-01-18
+2025-07-23 18:58:51,615 WARNING No data for TSLA on 2024-01-19
+2025-07-23 18:58:52,641 WARNING No data for TSLA on 2024-01-22
+2025-07-23 18:58:53,750 WARNING No data for TSLA on 2024-01-23
+2025-07-23 18:58:54,910 WARNING No data for TSLA on 2024-01-24
+2025-07-23 18:58:55,965 WARNING No data for TSLA on 2024-01-25
+2025-07-23 18:58:57,044 WARNING No data for TSLA on 2024-01-26
+2025-07-23 18:58:58,147 WARNING No data for TSLA on 2024-01-29
+2025-07-23 18:58:59,200 WARNING No data for TSLA on 2024-01-30
+2025-07-23 18:59:00,317 WARNING No data for TSLA on 2024-01-31
+2025-07-23 18:59:01,472 WARNING No data for TSLA on 2024-02-01
+2025-07-23 18:59:02,633 WARNING No data for TSLA on 2024-02-02
+2025-07-23 18:59:03,699 WARNING No data for TSLA on 2024-02-05
+2025-07-23 18:59:04,770 WARNING No data for TSLA on 2024-02-06
+2025-07-23 18:59:05,836 WARNING No data for TSLA on 2024-02-07
+2025-07-23 18:59:06,928 WARNING No data for TSLA on 2024-02-08
+2025-07-23 18:59:08,006 WARNING No data for TSLA on 2024-02-09
+2025-07-23 18:59:09,109 WARNING No data for TSLA on 2024-02-12
+2025-07-23 18:59:10,269 WARNING No data for TSLA on 2024-02-13
+2025-07-23 18:59:11,307 WARNING No data for TSLA on 2024-02-14
+2025-07-23 18:59:12,417 WARNING No data for TSLA on 2024-02-15
+2025-07-23 18:59:13,529 WARNING No data for TSLA on 2024-02-16
+2025-07-23 18:59:14,644 WARNING No data for TSLA on 2024-02-19
+2025-07-23 18:59:15,766 WARNING No data for TSLA on 2024-02-20
+2025-07-23 18:59:16,918 WARNING No data for TSLA on 2024-02-21
+2025-07-23 18:59:17,961 WARNING No data for TSLA on 2024-02-22
+2025-07-23 18:59:19,026 WARNING No data for TSLA on 2024-02-23
+2025-07-23 18:59:20,118 WARNING No data for TSLA on 2024-02-26
+2025-07-23 18:59:21,196 WARNING No data for TSLA on 2024-02-27
+2025-07-23 18:59:22,417 WARNING No data for TSLA on 2024-02-28
+2025-07-23 18:59:23,662 WARNING No data for TSLA on 2024-02-29
+2025-07-23 18:59:24,749 WARNING No data for TSLA on 2024-03-01
+2025-07-23 18:59:26,013 WARNING No data for TSLA on 2024-03-04
+2025-07-23 18:59:27,158 WARNING No data for TSLA on 2024-03-05
+2025-07-23 18:59:28,249 WARNING No data for TSLA on 2024-03-06
+2025-07-23 18:59:29,319 WARNING No data for TSLA on 2024-03-07
+2025-07-23 18:59:30,509 WARNING No data for TSLA on 2024-03-08
+2025-07-23 18:59:31,741 WARNING No data for TSLA on 2024-03-11
+2025-07-23 18:59:32,857 WARNING No data for TSLA on 2024-03-12
+2025-07-23 18:59:33,910 WARNING No data for TSLA on 2024-03-13
+2025-07-23 18:59:34,929 WARNING No data for TSLA on 2024-03-14
+2025-07-23 18:59:35,985 WARNING No data for TSLA on 2024-03-15
+2025-07-23 18:59:37,165 WARNING No data for TSLA on 2024-03-18
+2025-07-23 18:59:38,203 WARNING No data for TSLA on 2024-03-19
+2025-07-23 18:59:39,331 WARNING No data for TSLA on 2024-03-20
+2025-07-23 18:59:40,446 WARNING No data for TSLA on 2024-03-21
+2025-07-23 18:59:41,673 WARNING No data for TSLA on 2024-03-22
+2025-07-23 18:59:42,767 WARNING No data for TSLA on 2024-03-25
+2025-07-23 19:20:18,752 WARNING No data for TSLA in this batch
+2025-07-23 19:20:19,994 WARNING No data for TSLA in this batch
+2025-07-23 21:35:43,642 INFO Processing ticker 1/2: TSLA
+2025-07-23 21:35:43,661 INFO TSLA already has 6362 records from 2025-03-26 13:30:00 to 2025-07-22 20:00:00
+2025-07-23 21:35:43,662 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-23 21:35:46,282 INFO Successfully fetched 6362 records for TSLA
+2025-07-23 21:35:48,298 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-23 21:35:48,503 INFO Processing ticker 2/2: NVDA
+2025-07-23 21:35:48,508 INFO NVDA already has 6363 records from 2025-03-26 13:30:00 to 2025-07-22 20:00:00
+2025-07-23 21:35:48,508 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-23 21:35:50,840 INFO Successfully fetched 6363 records for NVDA
+2025-07-23 21:35:51,541 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-23 21:35:51,542 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-23 21:35:52,847 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-23 21:35:54,322 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-23 21:35:54,323 INFO Starting advanced training pipeline
+2025-07-23 21:35:54,323 INFO Configuration: {'pg_dsn': None, 'model_dir': '/Users/Prithvi/Trater/Logic/../Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-23 21:35:54,329 ERROR Error fetching symbols: database "Prithvi" does not exist
+2025-07-24 14:17:28,529 INFO Processing ticker 1/2: TSLA
+2025-07-24 14:17:28,562 INFO TSLA already has 12724 records from 2025-03-26 13:30:00 to 2025-07-22 20:00:00
+2025-07-24 14:17:28,562 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:17:31,107 INFO Successfully fetched 6362 records for TSLA
+2025-07-24 14:17:33,149 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-24 14:17:33,354 INFO Processing ticker 2/2: NVDA
+2025-07-24 14:17:33,363 INFO NVDA already has 12724 records from 2025-03-26 13:30:00 to 2025-07-22 20:00:00
+2025-07-24 14:17:33,363 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:17:35,472 INFO Successfully fetched 6363 records for NVDA
+2025-07-24 14:17:36,219 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:17:36,219 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:17:37,575 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-24 14:17:38,969 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-24 14:17:38,970 INFO Starting advanced training pipeline
+2025-07-24 14:17:38,970 INFO Configuration: {'pg_dsn': None, 'model_dir': '/Users/Prithvi/Trater/Logic/../Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-24 14:17:38,976 ERROR Error fetching symbols: database "Prithvi" does not exist
+2025-07-24 14:19:52,040 INFO Processing ticker 1/2: TSLA
+2025-07-24 14:19:52,051 INFO TSLA already has 19086 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:19:52,052 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:19:54,285 INFO Successfully fetched 6362 records for TSLA
+2025-07-24 14:19:56,332 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-24 14:19:56,537 INFO Processing ticker 2/2: NVDA
+2025-07-24 14:19:56,546 INFO NVDA already has 19085 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:19:56,546 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:19:58,863 INFO Successfully fetched 6363 records for NVDA
+2025-07-24 14:19:59,555 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:19:59,555 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:20:00,905 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-24 14:20:02,306 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-24 14:20:02,307 INFO Starting advanced training pipeline
+2025-07-24 14:20:02,307 INFO Configuration: {'pg_dsn': None, 'model_dir': '/Users/Prithvi/Trater/Logic/../Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-24 14:20:02,320 ERROR Error fetching symbols: database "Prithvi" does not exist
+2025-07-24 14:25:27,831 INFO Processing ticker 1/2: TSLA
+2025-07-24 14:25:27,855 INFO TSLA already has 25448 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:25:27,855 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:25:30,404 INFO Successfully fetched 6362 records for TSLA
+2025-07-24 14:25:56,447 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-24 14:25:56,657 INFO Processing ticker 2/2: NVDA
+2025-07-24 14:25:56,671 INFO NVDA already has 25446 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:25:56,671 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:25:59,000 INFO Successfully fetched 6363 records for NVDA
+2025-07-24 14:25:59,717 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:25:59,717 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:26:01,233 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-24 14:26:02,646 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-24 14:26:02,647 INFO Starting advanced training pipeline
+2025-07-24 14:26:02,647 INFO Configuration: {'pg_dsn': None, 'model_dir': '/Users/Prithvi/Trater/Logic/../Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-24 14:26:02,659 ERROR Error fetching symbols: database "Prithvi" does not exist
+2025-07-24 14:36:37,205 INFO Processing ticker 1/2: TSLA
+2025-07-24 14:36:37,233 INFO TSLA already has 31810 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:36:37,233 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:36:40,352 INFO Successfully fetched 6362 records for TSLA
+2025-07-24 14:36:50,020 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-24 14:36:50,244 INFO Processing ticker 2/2: NVDA
+2025-07-24 14:36:50,267 INFO NVDA already has 31807 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:36:50,268 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:36:52,835 INFO Successfully fetched 6363 records for NVDA
+2025-07-24 14:36:54,166 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:36:54,166 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:36:55,610 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-24 14:36:57,048 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-24 14:36:57,049 INFO Starting advanced training pipeline
+2025-07-24 14:36:57,049 INFO Configuration: {'pg_dsn': None, 'model_dir': '/Users/Prithvi/Trater/Logic/../Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-24 14:36:57,059 ERROR Error fetching symbols: database "Prithvi" does not exist
+2025-07-24 14:46:32,439 INFO Processing ticker 1/2: TSLA
+2025-07-24 14:46:32,466 INFO TSLA already has 38172 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:46:32,467 INFO Fetching data for TSLA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:46:35,198 INFO Successfully fetched 6362 records for TSLA
+2025-07-24 14:46:37,313 INFO Saved 6362 bars for TSLA, 0 errors
+2025-07-24 14:46:37,518 INFO Processing ticker 2/2: NVDA
+2025-07-24 14:46:37,542 INFO NVDA already has 38168 records from 2025-03-26 13:30:00 to 2025-07-23 20:00:00
+2025-07-24 14:46:37,542 INFO Fetching data for NVDA with params: {'interval': '5m', 'api_token': '688099db07ac14.58303409', 'fmt': 'json'}
+2025-07-24 14:46:40,544 INFO Successfully fetched 6363 records for NVDA
+2025-07-24 14:46:41,237 WARNING Invalid OHLC for NVDA at 2025-05-05 16:30:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:46:41,237 WARNING Invalid OHLC for NVDA at 2025-05-05 16:35:00: O=nan, H=nan, L=nan, C=nan
+2025-07-24 14:46:42,590 INFO Saved 6361 bars for NVDA, 2 errors
+2025-07-24 14:46:43,968 WARNING TensorFlow not available. Deep learning models will be skipped.
+2025-07-24 14:46:43,968 INFO Starting advanced training pipeline
+2025-07-24 14:46:43,968 INFO Configuration: {'pg_dsn': 'postgresql://myuser:COOLMATH1!@localhost:5432/tradingdb', 'model_dir': 'Models', 'min_data_points': 1000, 'test_size': 0.2, 'validation_size': 0.2, 'cv_folds': 5, 'random_state': 42, 'n_jobs': -1, 'enable_deep_learning': False, 'enable_hyperparameter_tuning': True, 'feature_selection_k': 20, 'lookback_periods': [5, 10, 20, 30, 60]}
+2025-07-24 14:46:44,005 INFO Found 2 symbols to train
+2025-07-24 14:46:44,005 INFO Processing symbol 1/2: NVDA
+2025-07-24 14:46:44,005 INFO Training models for NVDA
+2025-07-24 14:46:44,281 ERROR Failed to train models for NVDA: unsupported operand type(s) for /: 'decimal.Decimal' and 'float'
+2025-07-24 14:46:44,292 INFO Processing symbol 2/2: TSLA
+2025-07-24 14:46:44,292 INFO Training models for TSLA
+2025-07-24 14:46:44,563 ERROR Failed to train models for TSLA: unsupported operand type(s) for /: 'decimal.Decimal' and 'float'
+2025-07-24 14:46:44,572 INFO Generating performance analysis
+2025-07-24 14:46:44,572 WARNING No training summaries found
+2025-07-24 14:46:44,572 WARNING No performance data available
+2025-07-24 14:46:44,572 INFO Advanced training pipeline completed

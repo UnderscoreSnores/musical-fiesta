@@ -1,0 +1,2 @@
+EODHD_API_KEY=688099db07ac14.58303409
+POSTGRES_DSN=postgresql://myuser:COOLMATH1!@localhost:5432/tradingdb
